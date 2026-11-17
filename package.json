@@ -1,0 +1,23 @@
+{
+  "name": "pwwithclaude",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bognaqa/testing-playwright-with-claude.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/bognaqa/testing-playwright-with-claude/issues"
+  },
+  "homepage": "https://github.com/bognaqa/testing-playwright-with-claude#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.65.1",
+    "@types/node": "^26.6.6"
+  }
+}
